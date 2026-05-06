@@ -1,5 +1,5 @@
 # python-dars_2
-Virtual muhit nima
+Virtual muhit nima?
 Pythondagi virtual muhit - bu sizning kompyuteringizdagi izolyatsiya qilingan muhit bo'lib, u yerda siz Python loyihalaringizni ishga tushirishingiz va sinab ko'rishingiz mumkin.
 
 Bu sizga boshqa loyihalarga yoki asl Python o'rnatilishiga xalaqit bermasdan loyihaga xos bog'liqliklarni boshqarish imkonini beradi.
